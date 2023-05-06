@@ -1,4 +1,4 @@
-# Image-Captioning
+# Image-Captioning Model
 
 - This is image captioning model using a pre-trained Vision Encoder-Decoder model. I'll be explaining how this model works and how to use it using the Python code.
 
